@@ -1,0 +1,1 @@
+docker run -v %cd%:/output -v %cd%:/input build make clean
